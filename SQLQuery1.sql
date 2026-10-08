@@ -93,3 +93,5 @@ INSERT INTO bookings (client_id, car_wash_id, service_id, box_id, washer_id, car
 
 INSERT INTO payments (booking_id, amount, method, washer_commission, status) VALUES 
 (1, 3500.00, 'online', 1050.00, 'paid');
+
+dfgnnwnekenff
