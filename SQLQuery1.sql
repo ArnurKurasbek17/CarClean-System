@@ -95,3 +95,4 @@ INSERT INTO payments (booking_id, amount, method, washer_commission, status) VAL
 (1, 3500.00, 'online', 1050.00, 'paid');
 
 SELECT * FROM boxes
+where number = 2
